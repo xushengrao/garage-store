@@ -1,0 +1,783 @@
+{
+  "project_info": {
+    "project_number": "615007659150",
+    "firebase_url": "https://neu-fall2021-default-rtdb.firebaseio.com",
+    "project_id": "neu-fall2021",
+    "storage_bucket": "neu-fall2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:f34e8c14f3ae2064f7d5df",
+        "android_client_info": {
+          "package_name": "com.app.final_project_hypergarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-vj5ojroct80533rkaq3o3etb7us93mtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.final_project_hypergarage",
+            "certificate_hash": "538f8a2b297dd1677e4f3975325daefcdd08ea7f"
+          }
+        },
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:e6b47b310c5a0db6f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.dz_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:c0be5b3fea538b2af7d5df",
+        "android_client_info": {
+          "package_name": "com.example.ex5a_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:72ce1247d557ea53f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:40775c0d40044e72f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.final_project_sl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:24dfe4a346edaa6ff7d5df",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:0bed878d74e46764f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:4159260bbad7b478f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.garagesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:b06755766a16ee17f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.hyper_garage_sale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:b4e0e25458d51ec5f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.hypergaragesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:83bac7974e059591f7d5df",
+        "android_client_info": {
+          "package_name": "com.example.info6350_xinyi_wu_shunfang_lan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-2624ms0fjc599c9cif6jtvk2qqire3l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.info6350_xinyi_wu_shunfang_lan",
+            "certificate_hash": "419031c820e83109f3771fee0d574131e0dbae6e"
+          }
+        },
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:e93a78c347fce9fdf7d5df",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:baad16cfd96bffbcf7d5df",
+        "android_client_info": {
+          "package_name": "com.example.zyj.hyper_garage_sale_by_zyj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:42b31c542b3514ccf7d5df",
+        "android_client_info": {
+          "package_name": "com.getx.app.db.firebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:591d24b10f4b615cf7d5df",
+        "android_client_info": {
+          "package_name": "com.info6250.authn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:377ea372f5a27684f7d5df",
+        "android_client_info": {
+          "package_name": "com.info6350.android_authn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:6ce4c7cf1364ac1df7d5df",
+        "android_client_info": {
+          "package_name": "com.neu.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:11c9939be222cda5f7d5df",
+        "android_client_info": {
+          "package_name": "com.neu.garagesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:896513f961c8d888f7d5df",
+        "android_client_info": {
+          "package_name": "com.neu.gupshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:02ead92b6db6bd91f7d5df",
+        "android_client_info": {
+          "package_name": "fall6350.exe5a.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615007659150:android:dd1ce5d4f1ac87e3f7d5df",
+        "android_client_info": {
+          "package_name": "flutter.authentication.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67p_LXIAarLxB0LqQMS7HQO6Gm9BA2wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615007659150-bs6uo89ja21ijh8ln08dha2fohdachh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615007659150-6h54llbfbpoce5ktbnb0cnb34iu01tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gabageSale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
